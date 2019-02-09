@@ -14,5 +14,16 @@ python3.7 server.py
 
 #### Screen shot
 
+Open your favorite browser : http://localhost:5000 in browser.
 
+Home Page
 
+![Home Page](img/home.png "Home Page")
+
+Add new Book
+
+![Add new Book](img/add.png "Add new Book")
+
+Update Book
+
+![Update Book](img/update.png "Update Book")
