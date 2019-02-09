@@ -3,7 +3,7 @@ import pymysql
 
 class Database:
     def connect(self):
-        return pymysql.connect("localhost", "dev", "dev", "crud_flask")
+        return pymysql.connect("localhost", "root", "root", "flask")
 
     def read(self, id):
         con = Database.connect(self)
