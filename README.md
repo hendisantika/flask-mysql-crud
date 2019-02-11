@@ -7,7 +7,7 @@ A simple CRUD application using Flask and MySQL
     MySQL
     AdminLTE 2
 
-#### Running server.py
+#### Running Locally
 ```bash
 python3.7 server.py
 ```
@@ -27,3 +27,5 @@ Add new Book
 Update Book
 
 ![Update Book](img/update.png "Update Book")
+
+#### Running on Docker
