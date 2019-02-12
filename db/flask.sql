@@ -1,3 +1,6 @@
+-- CREATE database flask if not exists ;
+-- Use flask;
+
 CREATE TABLE IF NOT EXISTS `phone_book` (
   `id` int(5) NOT NULL PRIMARY KEY AUTO_INCREMENT,
   `name` varchar(255) NOT NULL,
